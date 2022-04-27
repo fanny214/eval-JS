@@ -1,0 +1,48 @@
+ body{
+    margin-top: 20rem;
+    margin-left: 25rem;
+    background: linear-gradient(0.25turn, #5b1bdc, #7679d3, #d3cb73);
+
+ }
+
+
+
+        .carre{
+            
+            width: 30rem;
+            height: 30rem;
+            border: 1px solid rgb(250, 247, 247);
+            border-radius: 20px;
+            background-size: contain;
+            background-color: beige;
+        }
+      
+
+      
+
+        .btn {
+            
+            padding: 6px;
+            width  : 10rem;
+            height : 5rem ;
+            background : rgb(100, 57, 228) ;
+            text-shadow: #d3cb73;
+            font-size: 1rem;
+            text-align: center;
+            color:#d3cb73;
+            border-radius: 10px;
+
+        }   
+        
+        .btn {
+            background-color: rgb(101, 95, 223);
+        }
+        
+        .btn {
+            box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0),
+                        inset 2px 2px 3px rgba(0, 0, 0, 0.99);
+        }
+        
+      
+
+      
